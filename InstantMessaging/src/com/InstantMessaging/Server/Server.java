@@ -63,7 +63,7 @@ public class Server extends JFrame {
 					
 				} catch(EOFException e) {
 					
-					showMessage("\n Server ended the COnnection!");
+					showMessage("\n Server ended the Connection!");
 					
 				} finally {
 					
